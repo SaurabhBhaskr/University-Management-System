@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run University Management System",
+      "request": "launch",
+      "mainClass": "university.management.system.Splash",
+      "projectName": "University Management System"
+    }
+  ]
+}

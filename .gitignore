@@ -1,0 +1,8 @@
+build/
+data/
+*.class
+*.log
+*.lock.db
+*.mv.db
+.DS_Store
+Thumbs.db
