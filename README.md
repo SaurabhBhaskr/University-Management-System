@@ -66,7 +66,7 @@ The original project connects to MySQL using:
 ```text
 Database: universitymanagementsystem
 Username: root
-Password: codeforinterview
+Password: nil
 ```
 
 If MySQL is not available or the password is incorrect, the app automatically falls back to a local H2 database stored in:
